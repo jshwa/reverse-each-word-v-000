@@ -6,6 +6,6 @@ def reverse_each_word(sentence)
     word_reverse = word_array.reverse
     word_reverse_array = word_reverse.join
     sentence_final << word_reverse_array
-  end
-    sentence_final
+    end
+  sentence_final
 end
